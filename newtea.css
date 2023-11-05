@@ -404,11 +404,6 @@ body{
     }
   }
 
-  .content {
-    text-align: left;
- 
-  }
-  
   /* Styles for screens <= 768px */
   @media screen and (max-width: 768px) {
     .content {
